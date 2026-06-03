@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
     s.name             = 'IncogniaSDK'
-    s.version          = 'x.y.z'
+    s.version          = '6.99.0'
     s.summary          = 'Incognia SDK' 
     s.description      = 'Incognia offers the first private identity solution based on location behavior for frictionless authentication and identity verification.'
     s.homepage         = 'https://incognia.com/'
     s.author           = { "Incognia" => "contact@incognia.com" }
-    s.source           = { :http => "https://sdk-assets.incognia.com/ios/x.y.z/IncogniaSDK-x.y.z-xcfw-and-bundle.zip"}
+    s.source           = { :http => "https://sdk-assets.incognia.com/ios/6.99.0/IncogniaSDK-6.99.0-xcfw-and-bundle.zip"}
     s.documentation_url = "https://developer.incognia.com/"
     s.ios.deployment_target = '15.0'
     s.license = { :type => 'Copyright', :text => 'Copyright 2026 Incognia. See the terms of service at https://incognia.com/'} 

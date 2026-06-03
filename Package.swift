@@ -26,8 +26,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "IncogniaSDK",
-            url: "https://sdk-assets.incognia.com/ios/x.y.z/IncogniaSDK-x.y.z.zip",
-            checksum: "<# ZIP_CHECKSUM #>"
+            url: "https://sdk-assets.incognia.com/ios/6.99.0/IncogniaSDK-6.99.0.zip",
+            checksum: "b88d83738ddbc875351b5645b31cbc9ae072f93f33bd6b00d07a18cb6e48f835"
         )
     ]
 )
