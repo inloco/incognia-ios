@@ -1,0 +1,13 @@
+{
+  "event": "security_override",
+  "timestamp": "2026-06-03T14:36:55.743057",
+  "user": "larissa.navarro@incognia.com",
+  "branch": "release/6.99.0",
+  "files": [
+    "IncogniaSDK.podspec"
+  ],
+  "detectors": [
+    "Gitleaks: possible-raw-pii-email"
+  ],
+  "secrets_found": 1
+}
